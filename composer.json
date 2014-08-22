@@ -1,0 +1,25 @@
+{
+    "name": "paaxonia/validation",
+    "description": "Easy to use form validation package for laravel 4.",
+    "keywords": [
+        "form validation",
+        "validation",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Christoffer Palm",
+            "email": "christoffer.palm@paax.se"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Paaxonia\\Validation": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
